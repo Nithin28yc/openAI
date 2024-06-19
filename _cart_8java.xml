@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.17">
+  <compounddef id="_cart_8java" kind="file" language="Java">
+    <compoundname>Cart.java</compoundname>
+    <innerclass refid="classcom_1_1bittercode_1_1model_1_1_cart" prot="public">com::bittercode::model::Cart</innerclass>
+    <innernamespace refid="namespacecom_1_1bittercode_1_1model">com::bittercode::model</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="keyword">package<sp/></highlight><highlight class="normal">com.bittercode.model;</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="keyword">import</highlight><highlight class="normal"><sp/>java.io.Serializable;</highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight></codeline>
+<codeline lineno="5" refid="classcom_1_1bittercode_1_1model_1_1_cart" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classcom_1_1bittercode_1_1model_1_1_cart" kindref="compound">Cart</ref><sp/></highlight><highlight class="keyword">implements</highlight><highlight class="normal"><sp/>Serializable<sp/>{</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1bittercode_1_1model_1_1_book" kindref="compound">Book</ref><sp/>book;</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">private</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>quantity;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight></codeline>
+<codeline lineno="10" refid="classcom_1_1bittercode_1_1model_1_1_cart_1ae1f4511444a45d957df07db6a2a122dc" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1bittercode_1_1model_1_1_cart_1ae1f4511444a45d957df07db6a2a122dc" kindref="member">Cart</ref>(<ref refid="classcom_1_1bittercode_1_1model_1_1_book" kindref="compound">Book</ref><sp/>book,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>quantity)<sp/>{</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.book<sp/>=<sp/>book;</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.quantity<sp/>=<sp/>quantity;</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"></highlight></codeline>
+<codeline lineno="15" refid="classcom_1_1bittercode_1_1model_1_1_cart_1a4407c95c6f9094c804b3dc61b3e79e53" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1bittercode_1_1model_1_1_book" kindref="compound">Book</ref><sp/><ref refid="classcom_1_1bittercode_1_1model_1_1_cart_1a4407c95c6f9094c804b3dc61b3e79e53" kindref="member">getBook</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>book;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19" refid="classcom_1_1bittercode_1_1model_1_1_cart_1af2d05c8331120b721cade4bb2e9b7473" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1bittercode_1_1model_1_1_cart_1af2d05c8331120b721cade4bb2e9b7473" kindref="member">setBook</ref>(<ref refid="classcom_1_1bittercode_1_1model_1_1_book" kindref="compound">Book</ref><sp/>book)<sp/>{</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.book<sp/>=<sp/>book;</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="23" refid="classcom_1_1bittercode_1_1model_1_1_cart_1a32451f825a477347341577c989470c5c" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1bittercode_1_1model_1_1_cart_1a32451f825a477347341577c989470c5c" kindref="member">getQuantity</ref>()<sp/>{</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>quantity;</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="27" refid="classcom_1_1bittercode_1_1model_1_1_cart_1a9709319fba08542a8a10b9dcab373f83" refkind="member"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="classcom_1_1bittercode_1_1model_1_1_cart_1a9709319fba08542a8a10b9dcab373f83" kindref="member">setQuantity</ref>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>quantity)<sp/>{</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>this.quantity<sp/>=<sp/>quantity;</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"></highlight></codeline>
+<codeline lineno="31"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="src/main/java/com/bittercode/model/Cart.java"/>
+  </compounddef>
+</doxygen>

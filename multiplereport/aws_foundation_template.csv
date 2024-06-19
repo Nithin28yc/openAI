@@ -1,0 +1,8 @@
+account,region,app_name,env,sg_name,sg_description,vpc_name,ingress_from_port,ingress_to_port,ingress_protocol,ingress_cidr,egress_from_port,egress_to_port,egress_protocol,egress_cidr,Description
+860603176648,ap-east-1,mynav,dev,mynav-web-sg-yc,Security group for web servers,mynav-acp-demo-vpc-yc,22,22,tcp,3.232.139.237/32,80,80,tcp,0.0.0.0/0,aws nat docker eip
+860603176648,ap-east-1,mynav,dev,mynav-web-sg-yc,Security group for web servers,mynav-acp-demo-vpc-yc,80,80,tcp,0.0.0.0/0,443,443,tcp,0.0.0.0/0,
+860603176648,ap-east-1,mynav,dev,mynav-web-sg-yc,Security group for web servers,mynav-acp-demo-vpc-yc,443,443,tcp,0.0.0.0/0,5000,5000,tcp,10.12.0.0/17,
+860603176648,ap-east-1,mynav,dev,mynav-web-sg-yc,Security group for web servers,mynav-acp-demo-vpc-yc,,,,,22,22,tcp,10.12.0.0/17,
+860603176648,ap-east-1,mynav,dev,mynav-api-sg-yc,Security group for api & DB servers,mynav-acp-demo-vpc-yc,5000,5000,tcp,10.12.0.0/17,27017,27017,tcp,10.12.0.0/17,Security group for api & DB servers
+860603176648,ap-east-1,mynav,dev,mynav-api-sg-yc,Security group for api & DB servers,mynav-acp-demo-vpc-yc,22,22,tcp,10.12.0.0/17,80,80,tcp,0.0.0.0/0,
+860603176648,ap-east-1,mynav,dev,mynav-api-sg-yc,Security group for api & DB servers,mynav-acp-demo-vpc-yc,27017,27017,tcp,10.12.0.0/17,443,443,tcp,0.0.0.0/0,

@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.17">
+  <compound refid="classservlets_1_1_about_servlet" kind="class"><name>servlets::AboutServlet</name>
+    <member refid="classservlets_1_1_about_servlet_1ad2e69674f300a8a92d0c6687134b497e" kind="function"><name>service</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_add_book_servlet" kind="class"><name>servlets::AddBookServlet</name>
+    <member refid="classservlets_1_1_add_book_servlet_1a59d71a037e55273814eb87cb7a434deb" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_add_book_servlet_1a80b65264274bf02fa540ca861ea42119" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_add_book_servlet_1a10ac487b9277a20442f0bb84967f5388" kind="function"><name>showAddBookForm</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1model_1_1_address" kind="class"><name>com::bittercode::model::Address</name>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1ad8a28fa201563f96b80a055e1c4a5772" kind="variable"><name>addressLine1</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a6c0ac20ec3d4c0d17ad36068a4f95ad1" kind="variable"><name>addressLine2</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a84cbe5a941a9eed5ae659c730192a0a7" kind="variable"><name>city</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a1b3daa999342e208cd559e30c3ae1717" kind="variable"><name>state</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1abe07b65b554bb64c91027c532f342168" kind="variable"><name>country</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1ac4ce7e4337218012625e27b5f276db87" kind="variable"><name>pinCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a09c2e716b6989da41a06fb43cadf0a08" kind="variable"><name>phone</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1ae4c9757ab5669fcecbd8e982c29b24a2" kind="function"><name>getAddressLine1</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a2b96e06195127253fc1b50d7645bc407" kind="function"><name>setAddressLine1</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a7788a733b144b0d50054a6fae12e2934" kind="function"><name>getAddressLine2</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1af227331505584a9d834f9514ada82712" kind="function"><name>setAddressLine2</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a42ae229ffe9a182763ff2eca65c34490" kind="function"><name>getCity</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1ad76f2fc0c81623db399e9fe49716b49f" kind="function"><name>setCity</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1af8740ca114f81053dad0236a63a44e8c" kind="function"><name>getState</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1addbfff81bb7edbfa99271af2012bacae" kind="function"><name>setState</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a81f0da53a5ff00e682856201eb4c0a2f" kind="function"><name>getCountry</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a951a98a7942ae3a8db16dd9c9feecf24" kind="function"><name>setCountry</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a79e5c4def3b4d5b36d222d440d1337af" kind="function"><name>getPinCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a8ce8ad37100338de2a525e5b770139d2" kind="function"><name>setPinCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a84d0b972ff4c2934ace38f23bb0ab5a3" kind="function"><name>getPhone</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_address_1a6848c55ce738ca1332f1a03d7c70a079" kind="function"><name>setPhone</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1model_1_1_book" kind="class"><name>com::bittercode::model::Book</name>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1af8b7edfe19c1a2d6215c6204bacec793" kind="variable"><name>barcode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a45154d528af5d8bbe276683d14154761" kind="variable"><name>name</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1abbfb6467378d22b50f429da85c58f8dc" kind="variable"><name>author</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a727334a58279deb8edff86bd3016f50f" kind="variable"><name>price</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a5ab79c09f7872157b19fe602b36730ff" kind="variable"><name>quantity</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1aff587140dc980fd88cecb66d815c1705" kind="function"><name>Book</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a0791947b2f5ed4499ad317bc4c197f21" kind="function"><name>Book</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a2620cdb8062cb593a327c8f0e3cdd9d0" kind="function"><name>getBarcode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a5e2b7368886a7e7c04dc70e8a43bb95a" kind="function"><name>setBarcode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a1a33f3f82d981ab9ada5b8b3efc9db0a" kind="function"><name>getName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a226416b97300c9dc343f260e555c0e72" kind="function"><name>setName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a320e08fac18ad90dd133d94a140c49eb" kind="function"><name>getAuthor</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a662721d67912792bc1de991b1df59ab8" kind="function"><name>setAuthor</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1acb8b04d7f39bc64074ebe5cda994762f" kind="function"><name>getQuantity</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1a4922ebaf589e5538deaef0a5490541b7" kind="function"><name>setQuantity</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1ace43778bc3f185d3795f4af68f9cf056" kind="function"><name>getPrice</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_book_1aa763443fb9077539ad48efc6c6011b01" kind="function"><name>setPrice</name></member>
+  </compound>
+  <compound refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_books_d_b_constants" kind="interface"><name>com::bittercode::constant::db::BooksDBConstants</name>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_books_d_b_constants_1a17e4a5f8f673fbf621ae202d2675c2e0" kind="variable"><name>TABLE_BOOK</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_books_d_b_constants_1a0cbd3baa43eb67b305fe7c0b2760e39e" kind="variable"><name>COLUMN_NAME</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_books_d_b_constants_1a06e9f54b1e7cc94aeb50eae8b8f84386" kind="variable"><name>COLUMN_BARCODE</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_books_d_b_constants_1a01606775b1307b864bc8ebf406e14dcd" kind="variable"><name>COLUMN_AUTHOR</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_books_d_b_constants_1a9630e80093ef3d01bc3c33fb16d27610" kind="variable"><name>COLUMN_PRICE</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_books_d_b_constants_1aea00b97ec57e3bfab7ba80e81ac08a58" kind="variable"><name>COLUMN_QUANTITY</name></member>
+  </compound>
+  <compound refid="interfacecom_1_1bittercode_1_1service_1_1_book_service" kind="interface"><name>com::bittercode::service::BookService</name>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_book_service_1afb6d11d53d62bbd0f57bcf96e32e51bc" kind="function"><name>getBookById</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_book_service_1af319caef68bbc75cdc2f5ef789a527d0" kind="function"><name>getAllBooks</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_book_service_1adbeacbadc94c8fd30b6e916c4d7ae367" kind="function"><name>getBooksByCommaSeperatedBookIds</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_book_service_1ae7d5d659e7219a2c0732a60b845c75a6" kind="function"><name>deleteBookById</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_book_service_1afcbd3ed4ded85ad75ccbda16b5dbde00" kind="function"><name>addBook</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_book_service_1a607e70233a365abe526ca4f1b4eefef0" kind="function"><name>updateBookQtyById</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_book_service_1a4774520271e4cde5e020b288f0030cfc" kind="function"><name>updateBook</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl" kind="class"><name>com::bittercode::service::impl::BookServiceImpl</name>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a797fc3dc0aea6213b5cc58d717611aad" kind="variable"><name>getAllBooksQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a3420d16f774e53adf630c3f2d8a0c053" kind="variable"><name>getBookByIdQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1ac1b976e7152d49096d3e217cea7b2cf5" kind="variable"><name>deleteBookByIdQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1ad957d6b19537b636d846809aa3aed348" kind="variable"><name>addBookQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a317bf67871c6025441b3ed3f3b3be909" kind="variable"><name>updateBookQtyByIdQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a47d16c960d5620f580b39c15d3ba83c3" kind="variable"><name>updateBookByIdQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a1f725340827fada7c6745a2575823f6d" kind="function"><name>getBookById</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a9df5f2c2fe2f1ba6baf574f009f75274" kind="function"><name>getAllBooks</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a254fc2daf6b2c59a06b22e6728738da4" kind="function"><name>deleteBookById</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a02b1038ab82be3bbfee0812086c7396a" kind="function"><name>addBook</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a97e4a4adc1f7bdb46ea22a6ebc9af4f3" kind="function"><name>updateBookQtyById</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1a688398ebbfeef47027fb352e2fc19034" kind="function"><name>getBooksByCommaSeperatedBookIds</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_book_service_impl_1af56775b83b530f906b7d350145c13c73" kind="function"><name>updateBook</name></member>
+  </compound>
+  <compound refid="interfacecom_1_1bittercode_1_1constant_1_1_book_store_constants" kind="interface"><name>com::bittercode::constant::BookStoreConstants</name>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1_book_store_constants_1af4ccfcdf8d0b6fd413bb018ee58e7deb" kind="variable"><name>CONTENT_TYPE_TEXT_HTML</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_buy_books_servlet" kind="class"><name>servlets::BuyBooksServlet</name>
+    <member refid="classservlets_1_1_buy_books_servlet_1a252a7ae552b0af397a58da05b03993b5" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_buy_books_servlet_1a83a4509f8090cb0c2f18f522c8c26ee3" kind="function"><name>doPost</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1model_1_1_cart" kind="class"><name>com::bittercode::model::Cart</name>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_cart_1ac8034573c99a314c747eb5fecd31a8ac" kind="variable"><name>book</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_cart_1a6090b7be985a4e1a40f9cf2cd5b5f478" kind="variable"><name>quantity</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_cart_1ae1f4511444a45d957df07db6a2a122dc" kind="function"><name>Cart</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_cart_1a4407c95c6f9094c804b3dc61b3e79e53" kind="function"><name>getBook</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_cart_1af2d05c8331120b721cade4bb2e9b7473" kind="function"><name>setBook</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_cart_1a32451f825a477347341577c989470c5c" kind="function"><name>getQuantity</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_cart_1a9709319fba08542a8a10b9dcab373f83" kind="function"><name>setQuantity</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_cart_servlet" kind="class"><name>servlets::CartServlet</name>
+    <member refid="classservlets_1_1_cart_servlet_1accd07aa210130677c11acdb8ba26b4fe" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_cart_servlet_1adf591d1eb082a98024e179db35dc56de" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_cart_servlet_1a07bcaedd63d6cf0fdb0c5045d1e3178a" kind="function"><name>getRowData</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_checkout_servlet" kind="class"><name>servlets::CheckoutServlet</name>
+    <member refid="classservlets_1_1_checkout_servlet_1a0fb773021341ddef7e27724fb2304f2e" kind="function"><name>doPost</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_customer_login_servlet" kind="class"><name>servlets::CustomerLoginServlet</name>
+    <member refid="classservlets_1_1_customer_login_servlet_1a063df4efac65ef8ced49b0a4940b1190" kind="variable"><name>authService</name></member>
+    <member refid="classservlets_1_1_customer_login_servlet_1aafdbf95d1063312250796fffcf5d2a8f" kind="function"><name>doPost</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_customer_register_servlet" kind="class"><name>servlets::CustomerRegisterServlet</name>
+    <member refid="classservlets_1_1_customer_register_servlet_1af10722c9b010c2a3492d5a2f9ce74db5" kind="variable"><name>userService</name></member>
+    <member refid="classservlets_1_1_customer_register_servlet_1a96c821f3aa6c9c2f18ce813d240aaa07" kind="function"><name>service</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1util_1_1_database_config" kind="class"><name>com::bittercode::util::DatabaseConfig</name>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1aaafcd04ffd5a571742df9389146f16fe" kind="variable"><name>prop</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1a9617ad95d19b6ad4211ae7b32ff6b818" kind="variable"><name>DRIVER_NAME</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1a2472ec713f4c88d6075ac8220200f853" kind="variable"><name>DB_HOST</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1a1fd2ba82c3b8f66f7b5a6cfb15d93790" kind="variable"><name>DB_PORT</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1a5e1888ee5d9aa8cf1fcd255bd2935244" kind="variable"><name>DB_NAME</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1ac267755491b16a6be0a70f12cb96411f" kind="variable"><name>DB_USER_NAME</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1aeacd5c5b7fbdd0365e2a68f5d22f8a78" kind="variable"><name>DB_PASSWORD</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1a337e6c9feac460e814bc3a248f5c2a81" kind="variable"><name>CONNECTION_STRING</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_database_config_1a2f905e7d29ab0d53441073a9d6234b9b" kind="function"><name>[static initializer]</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1util_1_1_d_b_util" kind="class"><name>com::bittercode::util::DBUtil</name>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_d_b_util_1a0b4a5968103df77de157735035b72fba" kind="variable"><name>connection</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_d_b_util_1a7b1af68dc09194e7873d2339bf761e6f" kind="function"><name>[static initializer]</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_d_b_util_1a332ab2ded8ea74d29c74491a62ba6a45" kind="function"><name>getConnection</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_error_handler_servlet" kind="class"><name>servlets::ErrorHandlerServlet</name>
+    <member refid="classservlets_1_1_error_handler_servlet_1ae968930e45de96a5f68d45ab9b442d4c" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_error_handler_servlet_1ae87ec033af764f22c8c21f796ea774dd" kind="function"><name>showErrorMessage</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_logout_servlet" kind="class"><name>servlets::LogoutServlet</name>
+    <member refid="classservlets_1_1_logout_servlet_1ae141c330b284fd648f068dd80a8f72e0" kind="variable"><name>authService</name></member>
+    <member refid="classservlets_1_1_logout_servlet_1ac4dae3031832dd3d097d2025b216a20c" kind="function"><name>doGet</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_process_payment_servlet" kind="class"><name>servlets::ProcessPaymentServlet</name>
+    <member refid="classservlets_1_1_process_payment_servlet_1aeb00f273efabbd4ed8fa97a43c58d2bf" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_process_payment_servlet_1a6d6d7fc3c5b2e56532095e57be6e80e0" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_process_payment_servlet_1af9c5d14b59b9e86f2f8dd9a7ae30ca1c" kind="function"><name>addBookToCard</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1util_1_1_property_config" kind="class"><name>com::bittercode::util::PropertyConfig</name>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_property_config_1a0d1af55b2ee74761d4d5a7d942e04c9e" kind="variable"><name>prop</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_property_config_1afa0fc46636977ef660f329016175e0d1" kind="variable"><name>COLUMN_PWD</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_property_config_1a1cdce1ff398214316fa7f0f10f68474c" kind="function"><name>[static initializer]</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_receipt_servlet" kind="class"><name>servlets::ReceiptServlet</name>
+    <member refid="classservlets_1_1_receipt_servlet_1aad30b66e63298ef7a03231f13672400f" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_receipt_servlet_1a7137f72fbc4269ccfc1a6f14cac633f9" kind="function"><name>service</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_remove_book_servlet" kind="class"><name>servlets::RemoveBookServlet</name>
+    <member refid="classservlets_1_1_remove_book_servlet_1ada134fd38a01ebf8a98b644ac9f61e78" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_remove_book_servlet_1a9250efc6b5360832aa7b4be2d8b6275f" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_remove_book_servlet_1af97f05ae8e911611667b036254d9e393" kind="function"><name>showRemoveBookForm</name></member>
+  </compound>
+  <compound refid="enumcom_1_1bittercode_1_1constant_1_1_response_code" kind="enum"><name>com::bittercode::constant::ResponseCode</name>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1a22f2c5fb92e28764001d7e039a4760db" kind="variable"><name>SUCCESS</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1ab9b86d246213d0b2fcffe5456fbf6f2a" kind="variable"><name>FAILURE</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1a258ab95a27a78c1101e1301054f4a325" kind="variable"><name>PAGE_NOT_FOUND</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1aedc8f96d3d04274b3df5d9afa04ead39" kind="variable"><name>ACCESS_DENIED</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1aed113ce3c143195077276446df1dd21e" kind="variable"><name>BAD_REQUEST</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1abc31e321f07f4af60f72c60a6af24660" kind="variable"><name>INTERNAL_SERVER_ERROR</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1aa0ba3681fe4105d67518d90e76ceb954" kind="variable"><name>DATABASE_CONNECTION_FAILURE</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1a0e36e24a21feaa7c6da4644dde00bd4c" kind="variable"><name>METHOD_NOT_ALLOWED</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1ac91fc9b3ee4accf2b2c984540e8f0e77" kind="variable"><name>message</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1a94265c7b61ff0c56d7716d961d50b96b" kind="variable"><name>code</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1af65b3c47137be00bc89e1187b10082d4" kind="function"><name>ResponseCode</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1a7550b2c804a6d1017761507195edfdf5" kind="function"><name>getMessage</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1a798819bc388a4f1bded075eeb9414e6f" kind="function"><name>getCode</name></member>
+    <member refid="enumcom_1_1bittercode_1_1constant_1_1_response_code_1ac4ee5fdd205e8a647c60943040655f61" kind="function"><name>getMessageByStatusCode</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_seller_login_servlet" kind="class"><name>servlets::SellerLoginServlet</name>
+    <member refid="classservlets_1_1_seller_login_servlet_1a0cba0e2abcb5db2c08c4cc11946a5b13" kind="variable"><name>userService</name></member>
+    <member refid="classservlets_1_1_seller_login_servlet_1a95798a31ce13a3a2e47ac6e6f5e0eaff" kind="function"><name>doPost</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_store_book_servlet" kind="class"><name>servlets::StoreBookServlet</name>
+    <member refid="classservlets_1_1_store_book_servlet_1ac98318fd66320c63fae5845e080909c4" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_store_book_servlet_1a2fefc86f973f13e0f7a68c9f2097b28a" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_store_book_servlet_1ae13eb6d77e01bbfa673ac09678156c9c" kind="function"><name>getRowData</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1model_1_1_store_exception" kind="class"><name>com::bittercode::model::StoreException</name>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1ab1486e511e954244869d9db7f0a9bef5" kind="variable"><name>errorCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1a2cb2c06d902ef127c5c3ba7e4d240c05" kind="variable"><name>errorMessage</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1a53c0669f0b4337392ce3820ecd8304c1" kind="variable"><name>statusCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1a045621681a04c5720cb36352bd316d28" kind="function"><name>StoreException</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1ae89d77d6d9e73e67f96c7f8309e99bcc" kind="function"><name>StoreException</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1a0ed4768858745c2c04ff69cc5f63b596" kind="function"><name>StoreException</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1acba4f169924812c7e024f33a58cc88e3" kind="function"><name>StoreException</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1aef871e9679830c07b5bb37a1227849b8" kind="function"><name>getErrorCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1a1b1662e862827b5ab7b3a0d2d36be09b" kind="function"><name>setErrorCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1a0bc8db0029e621bf34da12e427f33e1e" kind="function"><name>getErrorMessage</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1ad15db74b7e60ea7d4a058aa4a38f2145" kind="function"><name>setErrorMessage</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1a729bb47d496d8c0e8ab34897dd444e7a" kind="function"><name>getStatusCode</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_store_exception_1ab92f6a00ae470f4c1471270ab2342fb6" kind="function"><name>setStatusCode</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1util_1_1_store_util" kind="class"><name>com::bittercode::util::StoreUtil</name>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_store_util_1a0448c4db08478759f622b580a5908685" kind="function"><name>isLoggedIn</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_store_util_1a619000395d484ec12213e81b462449c5" kind="function"><name>setActiveTab</name></member>
+    <member refid="classcom_1_1bittercode_1_1util_1_1_store_util_1aefa02a5cf06e60a72b54f45f754e2883" kind="function"><name>updateCartItems</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_update_book_servlet" kind="class"><name>servlets::UpdateBookServlet</name>
+    <member refid="classservlets_1_1_update_book_servlet_1a2e9b0d1c10b0eae16354ea7a095a3e3b" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_update_book_servlet_1ac5b4916a016d63425cdf92387b3ce7f8" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_update_book_servlet_1a35e1e697af0e1c4c7ad306286680d2e4" kind="function"><name>showUpdateBookForm</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1model_1_1_user" kind="class"><name>com::bittercode::model::User</name>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a3c38a59a6524081e10eea2c2f5c7c08d" kind="variable"><name>emailId</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a1223884a14240b610dd42d3ed6c32a3c" kind="variable"><name>password</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a552b2466c187c3e3cf0efe9ef7e55dac" kind="variable"><name>firstName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a40a5fba04442e712b2153f51614bb028" kind="variable"><name>lastName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a5bdd75218b855a4ab26521acbeb81b8e" kind="variable"><name>phone</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a27642229b74d4d3bb1263aeabf0af3db" kind="variable"><name>address</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a5d73ba0beff7260bb4006c47c2f2798e" kind="variable"><name>roles</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a7cbf1cfe259fb48f6b369e4e054fee93" kind="function"><name>getEmailId</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a2fafc9f8af1f1403ac059a382da92087" kind="function"><name>setEmailId</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a10067de8d8855b471f2956a7999fb0fc" kind="function"><name>getPassword</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a93f95b7e4e896bf052de19cd926d2f79" kind="function"><name>setPassword</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a31f50bc4480921b9b2c10555cd2f6e7a" kind="function"><name>getFirstName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a833f4b193d47eb197f0f0db4eb590950" kind="function"><name>setFirstName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a95fe39c229d11e46a9d9a784368e5046" kind="function"><name>getLastName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a0ce5755e836f44def5e62f1a3b18f903" kind="function"><name>setLastName</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1abd59011cc002db3ce1a4e2a536ffa0a0" kind="function"><name>getPhone</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1add1e0fd6aaca869241de21244454cb61" kind="function"><name>setPhone</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a0ce51c950c5eb81263eff64a5d784f78" kind="function"><name>getAddress</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a2191ff9de405d8db39f0f06798cca0e4" kind="function"><name>setAddress</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1a26033c1e9e57caf6270d25893fd12d97" kind="function"><name>getRoles</name></member>
+    <member refid="classcom_1_1bittercode_1_1model_1_1_user_1ade143bb65161538db0d022ea9ce48a0d" kind="function"><name>setRoles</name></member>
+  </compound>
+  <compound refid="enumcom_1_1bittercode_1_1model_1_1_user_role" kind="enum"><name>com::bittercode::model::UserRole</name>
+    <member refid="enumcom_1_1bittercode_1_1model_1_1_user_role_1abbdb2e29f85b42e40f0223a62bc83aae" kind="variable"><name>CUSTOMER</name></member>
+    <member refid="enumcom_1_1bittercode_1_1model_1_1_user_role_1afc14a28227753d3c932ecf3f090de154" kind="variable"><name>SELLER</name></member>
+  </compound>
+  <compound refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants" kind="interface"><name>com::bittercode::constant::db::UsersDBConstants</name>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1af8bcb764d4dfc213ff463777c564aa0d" kind="variable"><name>TABLE_USERS</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1a24d6c00191856069de9fac0120cb5aae" kind="variable"><name>COLUMN_USERNAME</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1ac3c6b80b2ab1056ad4335055d06ebc0c" kind="variable"><name>COLUMN_FIRSTNAME</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1aa0431233fb1e9bdc5a6edaee5c7749b7" kind="variable"><name>COLUMN_LASTNAME</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1a04045f3b150da2724de09188e5c248e5" kind="variable"><name>COLUMN_ADDRESS</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1a779da92308005021452ba8b229c4906c" kind="variable"><name>COLUMN_PHONE</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1a8083d3ddd4b15a655f10d6b5435fb9e9" kind="variable"><name>COLUMN_MAILID</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1constant_1_1db_1_1_users_d_b_constants_1afb851be01554d078feda90a76674645b" kind="variable"><name>COLUMN_USERTYPE</name></member>
+  </compound>
+  <compound refid="interfacecom_1_1bittercode_1_1service_1_1_user_service" kind="interface"><name>com::bittercode::service::UserService</name>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_user_service_1a9ebf28b59ab1b66a1b0958ac7af6a096" kind="function"><name>login</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_user_service_1a337be10ad8da959f1a8382c016c7ef2c" kind="function"><name>register</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_user_service_1ab94f8eb97d0ac72bc06be2ac3e9695ac" kind="function"><name>isLoggedIn</name></member>
+    <member refid="interfacecom_1_1bittercode_1_1service_1_1_user_service_1a7113b479dfcc831083745f07058156fe" kind="function"><name>logout</name></member>
+  </compound>
+  <compound refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_user_service_impl" kind="class"><name>com::bittercode::service::impl::UserServiceImpl</name>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_user_service_impl_1a731010913251594f31d5edc03508f7d1" kind="variable"><name>registerUserQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_user_service_impl_1ae7770f4a1e725698b2220555f2bea1d0" kind="variable"><name>loginUserQuery</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_user_service_impl_1a4ea01f9399a037c2205e30094baf31e3" kind="function"><name>login</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_user_service_impl_1a291ff128b51c3f00ccf1918de80fbfc5" kind="function"><name>isLoggedIn</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_user_service_impl_1a7f8258114cc97706ddd2e4705f668019" kind="function"><name>logout</name></member>
+    <member refid="classcom_1_1bittercode_1_1service_1_1impl_1_1_user_service_impl_1a2e0704f360c21bd0fb399303172ba6da" kind="function"><name>register</name></member>
+  </compound>
+  <compound refid="classservlets_1_1_view_book_servlet" kind="class"><name>servlets::ViewBookServlet</name>
+    <member refid="classservlets_1_1_view_book_servlet_1a3a3a038ac4b5e604cd79882a4d77f1b9" kind="variable"><name>bookService</name></member>
+    <member refid="classservlets_1_1_view_book_servlet_1a50caf3fa92517508a02bdec3580517ee" kind="function"><name>service</name></member>
+    <member refid="classservlets_1_1_view_book_servlet_1afacada53f0b268502614bb7ce2c944a7" kind="function"><name>addBookToCard</name></member>
+  </compound>
+  <compound refid="namespacecom" kind="namespace"><name>com</name>
+  </compound>
+  <compound refid="namespacecom_1_1bittercode" kind="namespace"><name>com::bittercode</name>
+  </compound>
+  <compound refid="namespacecom_1_1bittercode_1_1constant" kind="namespace"><name>com::bittercode::constant</name>
+  </compound>
+  <compound refid="namespacecom_1_1bittercode_1_1constant_1_1db" kind="namespace"><name>com::bittercode::constant::db</name>
+  </compound>
+  <compound refid="namespacecom_1_1bittercode_1_1model" kind="namespace"><name>com::bittercode::model</name>
+  </compound>
+  <compound refid="namespacecom_1_1bittercode_1_1service" kind="namespace"><name>com::bittercode::service</name>
+  </compound>
+  <compound refid="namespacecom_1_1bittercode_1_1service_1_1impl" kind="namespace"><name>com::bittercode::service::impl</name>
+  </compound>
+  <compound refid="namespacecom_1_1bittercode_1_1util" kind="namespace"><name>com::bittercode::util</name>
+  </compound>
+  <compound refid="namespaceservlets" kind="namespace"><name>servlets</name>
+  </compound>
+  <compound refid="_c_o_d_e___o_f___c_o_n_d_u_c_t_8md" kind="file"><name>CODE_OF_CONDUCT.md</name>
+  </compound>
+  <compound refid="_c_o_n_t_r_i_b_u_t_i_n_g_8md" kind="file"><name>CONTRIBUTING.md</name>
+  </compound>
+  <compound refid="_dummy___database_8md" kind="file"><name>Dummy_Database.md</name>
+  </compound>
+  <compound refid="log_8txt" kind="file"><name>log.txt</name>
+    <member refid="log_8txt_1a8808a72b0bad4184aa7438b9f362052d" kind="variable"><name>Wed</name></member>
+    <member refid="log_8txt_1af2a6324e843646762a723d12d8642d22" kind="variable"><name>Aug</name></member>
+  </compound>
+  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="_book_store_constants_8java" kind="file"><name>BookStoreConstants.java</name>
+  </compound>
+  <compound refid="_books_d_b_constants_8java" kind="file"><name>BooksDBConstants.java</name>
+  </compound>
+  <compound refid="_users_d_b_constants_8java" kind="file"><name>UsersDBConstants.java</name>
+  </compound>
+  <compound refid="_response_code_8java" kind="file"><name>ResponseCode.java</name>
+  </compound>
+  <compound refid="_address_8java" kind="file"><name>Address.java</name>
+  </compound>
+  <compound refid="_book_8java" kind="file"><name>Book.java</name>
+  </compound>
+  <compound refid="_cart_8java" kind="file"><name>Cart.java</name>
+  </compound>
+  <compound refid="package-info_8java" kind="file"><name>package-info.java</name>
+  </compound>
+  <compound refid="_store_exception_8java" kind="file"><name>StoreException.java</name>
+  </compound>
+  <compound refid="_user_8java" kind="file"><name>User.java</name>
+  </compound>
+  <compound refid="_user_role_8java" kind="file"><name>UserRole.java</name>
+  </compound>
+  <compound refid="_book_service_8java" kind="file"><name>BookService.java</name>
+  </compound>
+  <compound refid="_book_service_impl_8java" kind="file"><name>BookServiceImpl.java</name>
+  </compound>
+  <compound refid="_user_service_impl_8java" kind="file"><name>UserServiceImpl.java</name>
+  </compound>
+  <compound refid="_user_service_8java" kind="file"><name>UserService.java</name>
+  </compound>
+  <compound refid="_database_config_8java" kind="file"><name>DatabaseConfig.java</name>
+  </compound>
+  <compound refid="_d_b_util_8java" kind="file"><name>DBUtil.java</name>
+  </compound>
+  <compound refid="_property_config_8java" kind="file"><name>PropertyConfig.java</name>
+  </compound>
+  <compound refid="_store_util_8java" kind="file"><name>StoreUtil.java</name>
+  </compound>
+  <compound refid="_about_servlet_8java" kind="file"><name>AboutServlet.java</name>
+  </compound>
+  <compound refid="_add_book_servlet_8java" kind="file"><name>AddBookServlet.java</name>
+  </compound>
+  <compound refid="_buy_books_servlet_8java" kind="file"><name>BuyBooksServlet.java</name>
+  </compound>
+  <compound refid="_cart_servlet_8java" kind="file"><name>CartServlet.java</name>
+  </compound>
+  <compound refid="_checkout_servlet_8java" kind="file"><name>CheckoutServlet.java</name>
+  </compound>
+  <compound refid="_customer_login_servlet_8java" kind="file"><name>CustomerLoginServlet.java</name>
+  </compound>
+  <compound refid="_customer_register_servlet_8java" kind="file"><name>CustomerRegisterServlet.java</name>
+  </compound>
+  <compound refid="_error_handler_servlet_8java" kind="file"><name>ErrorHandlerServlet.java</name>
+  </compound>
+  <compound refid="_logout_servlet_8java" kind="file"><name>LogoutServlet.java</name>
+  </compound>
+  <compound refid="_process_payment_servlet_8java" kind="file"><name>ProcessPaymentServlet.java</name>
+  </compound>
+  <compound refid="_receipt_servlet_8java" kind="file"><name>ReceiptServlet.java</name>
+  </compound>
+  <compound refid="_remove_book_servlet_8java" kind="file"><name>RemoveBookServlet.java</name>
+  </compound>
+  <compound refid="_seller_login_servlet_8java" kind="file"><name>SellerLoginServlet.java</name>
+  </compound>
+  <compound refid="_store_book_servlet_8java" kind="file"><name>StoreBookServlet.java</name>
+  </compound>
+  <compound refid="_update_book_servlet_8java" kind="file"><name>UpdateBookServlet.java</name>
+  </compound>
+  <compound refid="_view_book_servlet_8java" kind="file"><name>ViewBookServlet.java</name>
+  </compound>
+  <compound refid="md__c_o_d_e__o_f__c_o_n_d_u_c_t" kind="page"><name>md_CODE_OF_CONDUCT</name>
+  </compound>
+  <compound refid="md__c_o_n_t_r_i_b_u_t_i_n_g" kind="page"><name>md_CONTRIBUTING</name>
+  </compound>
+  <compound refid="md__dummy__database" kind="page"><name>md_Dummy_Database</name>
+  </compound>
+  <compound refid="md__r_e_a_d_m_e" kind="page"><name>md_README</name>
+  </compound>
+  <compound refid="dir_016a43d66ed5618ff5aacb82a4c953ec" kind="dir"><name>src/main/java/com/bittercode</name>
+  </compound>
+  <compound refid="dir_d8517d8b842053dc3dd7dde525dd9163" kind="dir"><name>src/main/java/com</name>
+  </compound>
+  <compound refid="dir_6d90b9e2129102ded1ad9710bb90651f" kind="dir"><name>src/main/java/com/bittercode/constant</name>
+  </compound>
+  <compound refid="dir_4f2faac246dac67fe0e73cfb4559e92d" kind="dir"><name>src/main/java/com/bittercode/constant/db</name>
+  </compound>
+  <compound refid="dir_821ae67a72b9622fb97a2451221e3a2a" kind="dir"><name>src/main/java/com/bittercode/service/impl</name>
+  </compound>
+  <compound refid="dir_fd3f6763802dee1ad875f6c80eac0bda" kind="dir"><name>src/main/java</name>
+  </compound>
+  <compound refid="dir_5eb159725f84c66aafd839904a4acdd0" kind="dir"><name>src/main</name>
+  </compound>
+  <compound refid="dir_a696ed0c72fbad25fe471956d138b88c" kind="dir"><name>src/main/java/com/bittercode/model</name>
+  </compound>
+  <compound refid="dir_604dbb3ffa6fa3d0f5f4fdb2653891b0" kind="dir"><name>src/main/java/com/bittercode/service</name>
+  </compound>
+  <compound refid="dir_8267aa623809f1d8ecb9a8511663ecf2" kind="dir"><name>src/main/java/servlets</name>
+  </compound>
+  <compound refid="dir_68267d1309a1af8e8297ef4c3efbcdba" kind="dir"><name>src</name>
+  </compound>
+  <compound refid="dir_3308a5637967a7a6904d982bb7864b0a" kind="dir"><name>src/main/java/com/bittercode/util</name>
+  </compound>
+</doxygenindex>

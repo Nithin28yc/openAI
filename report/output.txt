@@ -1,0 +1,1 @@
+Summary: The test case sessionManagement has failed due to the application failing the Unsecure Session Management Vulnerability. This vulnerability can allow an attacker to hijack a user's session and gain unauthorized access to sensitive information.
