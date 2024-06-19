@@ -11,7 +11,7 @@ import sys
 os.environ['OPENAI_API_TYPE'] = "azure"
 os.environ['OPENAI_API_BASE'] = ""
 os.environ['OPENAI_API_VERSION'] = "2023-03-15-preview"
-os.environ['OPENAI_API_KEY'] = ""
+os.environ['OPENAI_API_KEY'] = " "
 
 path = (r'C:\Users\nithin.y.c\Downloads\bookstore_output\bookstore_output\html')
 folder = os.listdir(path)
