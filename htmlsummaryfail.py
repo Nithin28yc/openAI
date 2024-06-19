@@ -5,9 +5,9 @@ import os
 import zipfile
 import sys
 os.environ['OPENAI_API_TYPE'] = "azure"
-os.environ['OPENAI_API_BASE'] = "https://devopsvalidation.openai.azure.com/"
+os.environ['OPENAI_API_BASE'] = ""
 os.environ['OPENAI_API_VERSION'] = "2023-03-15-preview"
-os.environ['OPENAI_API_KEY'] = "27940702532b4623b2c59a296bfe484b"
+os.environ['OPENAI_API_KEY'] = ""
 
 #with zipfile.ZipFile('Dev_Workspace_DefaultProject_cactest_Hosting_Cloud_Infra_Compliance_Ports_Management_5_Ports_Management.zip', 'r') as zip_ref:
 # with zipfile.ZipFile('Dev_Workspace_DefaultProject_cactest_App_Sec_Controls_Session_Management_1_Session_Management.zip', 'r') as zip_ref:

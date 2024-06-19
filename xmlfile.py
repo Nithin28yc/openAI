@@ -5,9 +5,9 @@ import os
 import zipfile
 import sys
 os.environ['OPENAI_API_TYPE'] = "azure"
-os.environ['OPENAI_API_BASE'] = "https://devopsvalidation.openai.azure.com/"
+os.environ['OPENAI_API_BASE'] = ""
 os.environ['OPENAI_API_VERSION'] = "2023-03-15-preview"
-os.environ['OPENAI_API_KEY'] = "27940702532b4623b2c59a296bfe484b"
+os.environ['OPENAI_API_KEY'] = ""
 
 from langchain.document_loaders import UnstructuredXMLLoader
 loader = UnstructuredXMLLoader(r'C:\Users\nithin.y.c\OneDrive - Accenture\Documents\CaC_Code\langchain\report\index.xml')

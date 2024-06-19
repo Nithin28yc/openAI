@@ -15,9 +15,9 @@ from langchain.vectorstores import Chroma
 import os
 
 os.environ['OPENAI_API_TYPE'] = "azure"
-os.environ['OPENAI_API_BASE'] = "https://devopsvalidation.openai.azure.com/"
+os.environ['OPENAI_API_BASE'] = ""
 os.environ['OPENAI_API_VERSION'] = "2023-03-15-preview"
-os.environ['OPENAI_API_KEY'] = "27940702532b4623b2c59a296bfe484b"
+os.environ['OPENAI_API_KEY'] = ""
 
 # openai.api_type = "azure"
 # openai.api_base = "https://devopsvalidation.openai.azure.com/"

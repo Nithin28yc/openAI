@@ -7,9 +7,9 @@ from langchain.embeddings import OpenAIEmbeddings
 #from IPython.display import display, Markdown
 import os
 os.environ['OPENAI_API_TYPE'] = "azure"
-os.environ['OPENAI_API_BASE'] = "https://devopsvalidation.openai.azure.com/"
+os.environ['OPENAI_API_BASE'] = ""
 os.environ['OPENAI_API_VERSION'] = "2023-03-15-preview"
-os.environ['OPENAI_API_KEY'] = "27940702532b4623b2c59a296bfe484b"
+os.environ['OPENAI_API_KEY'] = ""
 
 import zipfile
 with zipfile.ZipFile('Dev_Workspace_DefaultProject_cactest_App_Sec_Controls_Error_handling_2_Error_Handling.zip', 'r') as zip_ref:

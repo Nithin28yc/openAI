@@ -16,9 +16,9 @@ from langchain.chains.summarize import load_summarize_chain
 import os
 import sys
 os.environ['OPENAI_API_TYPE'] = "azure"
-os.environ['OPENAI_API_BASE'] = "https://devopsvalidation.openai.azure.com/"
+os.environ['OPENAI_API_BASE'] = ""
 os.environ['OPENAI_API_VERSION'] = "2023-03-15-preview"
-os.environ['OPENAI_API_KEY'] = "27940702532b4623b2c59a296bfe484b"
+os.environ['OPENAI_API_KEY'] = ""
 
 from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import TextLoader
